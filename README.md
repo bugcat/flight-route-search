@@ -28,19 +28,18 @@ no flight path that reaches
 
 ## Test Example
 
-```
-# no flight path that reaches
+No flight path that reaches :
 https://4589341kc3.goho.co/?from=TPE&to=SFO
 
-# only a single direct flight
+Only a single direct flight :
 https://4589341kc3.goho.co/?from=YBR&to=MRY
 
-# multi-leg flight (max 5 transfers by default)
+Multi-leg flight (max 5 transfers by default) :
 https://4589341kc3.goho.co/?from=SFJ&to=CVJ
 
-# multi-leg flight (set max 2 transfers)
+Multi-leg flight (set max 2 transfers) :
 https://4589341kc3.goho.co/?from=SFJ&to=CVJ&max=2
 
-# multi-leg flight (set max 10 transfers)
+Multi-leg flight (set max 10 transfers) :
 https://4589341kc3.goho.co/?from=SFJ&to=CVJ&max=10
-```
+
